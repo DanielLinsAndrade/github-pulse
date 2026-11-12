@@ -1,0 +1,56 @@
+name: GitHub Pulse - coleta diaria
+
+on:
+  schedule:
+    # Dois agendamentos locais: o segundo atua como tentativa de reserva.
+    - cron: '17 9 * * *'
+      timezone: 'America/Fortaleza'
+    - cron: '37 18 * * *'
+      timezone: 'America/Fortaleza'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: github-pulse-daily
+  cancel-in-progress: false
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout do repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Testes locais do projeto
+        run: python -m unittest discover -s tests -v
+
+      - name: Consultar repositorios e gerar arquivos
+        env:
+          PULSE_USERNAME: ${{ github.repository_owner }}
+          PULSE_IGNORE_REPO: ${{ github.repository }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/collect.py
+
+      - name: Publicar coleta apenas quando existir nova data
+        env:
+          COMMIT_USERNAME: ${{ github.actor }}
+          COMMIT_USER_ID: ${{ github.actor_id }}
+          TZ: America/Fortaleza
+        run: |
+          git config user.name "$COMMIT_USERNAME"
+          git config user.email "${COMMIT_USER_ID}+${COMMIT_USERNAME}@users.noreply.github.com"
+          git add STATUS.md data/ assets/
+          if git diff --cached --quiet; then
+            echo "Sem mudancas novas para publicar"
+          else
+            git commit -m "data: coleta publica de $(date +%F) [automatica]"
+            git push
+          fi
