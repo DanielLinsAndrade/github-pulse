@@ -1,0 +1,41 @@
+# GitHub Pulse | Painel de métricas públicas
+
+> Este painel é atualizado automaticamente. Os commits de coleta não representam atividade manual de programação.
+
+**Perfil monitorado:** [DanielLinsAndrade](https://github.com/DanielLinsAndrade)  
+**Última coleta:** 2026-11-12T15:18:30-03:00 (America/Fortaleza)
+
+## Indicadores
+
+| Indicador | Atual | Diferença para a coleta anterior |
+| :-- | --: | --: |
+| Repositórios públicos próprios | 9 | primeira coleta |
+| Estrelas recebidas | 3 | primeira coleta |
+| Forks recebidos | 0 | primeira coleta |
+| Issues abertas (aproximação da API) | 0 | primeira coleta |
+
+## Histórico visual
+
+![Histórico de estrelas](assets/stars.svg)
+
+## Repositórios em destaque
+
+| Projeto | Linguagem | Estrelas | Forks | Último push |
+| :-- | :-- | --: | --: | :-- |
+| [GerenciamentoDeConsultasMedicas](https://github.com/DanielLinsAndrade/GerenciamentoDeConsultasMedicas) | Python | 1 | 0 | 2024-12-05 |
+| [Island_Kraken](https://github.com/DanielLinsAndrade/Island_Kraken) | — | 1 | 0 | 2022-11-24 |
+| [Projeto-MNIST](https://github.com/DanielLinsAndrade/Projeto-MNIST) | Python | 1 | 0 | 2025-06-07 |
+| [8-Puzzle-Challenge-IDS](https://github.com/DanielLinsAndrade/8-Puzzle-Challenge-IDS) | Python | 0 | 0 | 2025-10-16 |
+| [AntiSpoiler](https://github.com/DanielLinsAndrade/AntiSpoiler) | JavaScript | 0 | 0 | 2024-09-18 |
+| [DanielLinsAndrade](https://github.com/DanielLinsAndrade/DanielLinsAndrade) | — | 0 | 0 | 2026-09-26 |
+| [dinheirovisky](https://github.com/DanielLinsAndrade/dinheirovisky) | TypeScript | 0 | 0 | 2026-09-26 |
+| [Gerenciamento-de-inventario](https://github.com/DanielLinsAndrade/Gerenciamento-de-inventario) | Python | 0 | 0 | 2025-01-07 |
+| [IrminsulAtlas](https://github.com/DanielLinsAndrade/IrminsulAtlas) | TypeScript | 0 | 0 | 2026-09-28 |
+
+## Últimas coletas
+
+| Data | Repositórios | Estrelas | Forks |
+| :-- | --: | --: | --: |
+| 2026-11-12 | 9 | 3 | 0 |
+
+Dados completos: [`data/history.csv`](data/history.csv) e arquivos JSON diários em [`data/daily`](data/daily).
