@@ -3,16 +3,16 @@
 > Este painel é atualizado automaticamente. Os commits de coleta não representam atividade manual de programação.
 
 **Perfil monitorado:** [DanielLinsAndrade](https://github.com/DanielLinsAndrade)  
-**Última coleta:** 2026-11-12T15:18:30-03:00 (America/Fortaleza)
+**Última coleta:** 2026-11-13T16:47:15-03:00 (America/Fortaleza)
 
 ## Indicadores
 
 | Indicador | Atual | Diferença para a coleta anterior |
 | :-- | --: | --: |
-| Repositórios públicos próprios | 9 | primeira coleta |
-| Estrelas recebidas | 3 | primeira coleta |
-| Forks recebidos | 0 | primeira coleta |
-| Issues abertas (aproximação da API) | 0 | primeira coleta |
+| Repositórios públicos próprios | 9 | 0 |
+| Estrelas recebidas | 3 | 0 |
+| Forks recebidos | 0 | 0 |
+| Issues abertas (aproximação da API) | 0 | 0 |
 
 ## Histórico visual
 
@@ -36,6 +36,7 @@
 
 | Data | Repositórios | Estrelas | Forks |
 | :-- | --: | --: | --: |
+| 2026-11-13 | 9 | 3 | 0 |
 | 2026-11-12 | 9 | 3 | 0 |
 
 Dados completos: [`data/history.csv`](data/history.csv) e arquivos JSON diários em [`data/daily`](data/daily).
