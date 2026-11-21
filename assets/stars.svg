@@ -11,8 +11,8 @@
 <text x="58" y="93.0" text-anchor="end" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">4</text>
 <line x1="70" y1="42.0" x2="770" y2="42.0" stroke="#30363d" stroke-width="1"/>
 <text x="58" y="46.0" text-anchor="end" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">4</text>
-<polyline points="70.0,136.0 157.5,136.0 245.0,136.0 332.5,136.0 420.0,136.0 507.5,136.0 595.0,136.0 682.5,136.0 770.0,136.0" fill="none" stroke="#3fb950" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+<polyline points="70.0,136.0 147.8,136.0 225.6,136.0 303.3,136.0 381.1,136.0 458.9,136.0 536.7,136.0 614.4,136.0 692.2,136.0 770.0,136.0" fill="none" stroke="#3fb950" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
 <circle cx="770.0" cy="136.0" r="4" fill="#56d364"/>
 <text x="70" y="262" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">2026-11-12</text>
-<text x="770" y="262" text-anchor="end" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">2026-11-20</text>
+<text x="770" y="262" text-anchor="end" fill="#8b949e" font-family="Arial,sans-serif" font-size="12">2026-11-21</text>
 </svg>
