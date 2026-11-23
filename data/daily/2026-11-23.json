@@ -1,0 +1,92 @@
+{
+  "date": "2026-11-23",
+  "captured_at": "2026-11-23T20:57:59-03:00",
+  "username": "DanielLinsAndrade",
+  "repository_count": 9,
+  "stars": 3,
+  "forks": 0,
+  "open_issues": 0,
+  "repositories": [
+    {
+      "name": "GerenciamentoDeConsultasMedicas",
+      "url": "https://github.com/DanielLinsAndrade/GerenciamentoDeConsultasMedicas",
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 0,
+      "language": "Python",
+      "last_push": "2024-12-05T19:07:10Z"
+    },
+    {
+      "name": "Island_Kraken",
+      "url": "https://github.com/DanielLinsAndrade/Island_Kraken",
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 0,
+      "language": null,
+      "last_push": "2022-11-24T07:44:01Z"
+    },
+    {
+      "name": "Projeto-MNIST",
+      "url": "https://github.com/DanielLinsAndrade/Projeto-MNIST",
+      "stars": 1,
+      "forks": 0,
+      "open_issues": 0,
+      "language": "Python",
+      "last_push": "2025-06-07T21:03:27Z"
+    },
+    {
+      "name": "8-Puzzle-Challenge-IDS",
+      "url": "https://github.com/DanielLinsAndrade/8-Puzzle-Challenge-IDS",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "language": "Python",
+      "last_push": "2025-10-16T04:55:24Z"
+    },
+    {
+      "name": "AntiSpoiler",
+      "url": "https://github.com/DanielLinsAndrade/AntiSpoiler",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "language": "JavaScript",
+      "last_push": "2024-09-18T21:11:11Z"
+    },
+    {
+      "name": "DanielLinsAndrade",
+      "url": "https://github.com/DanielLinsAndrade/DanielLinsAndrade",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "language": null,
+      "last_push": "2026-09-26T20:30:16Z"
+    },
+    {
+      "name": "dinheirovisky",
+      "url": "https://github.com/DanielLinsAndrade/dinheirovisky",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "language": "TypeScript",
+      "last_push": "2026-09-26T19:12:33Z"
+    },
+    {
+      "name": "Gerenciamento-de-inventario",
+      "url": "https://github.com/DanielLinsAndrade/Gerenciamento-de-inventario",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "language": "Python",
+      "last_push": "2025-01-07T21:28:00Z"
+    },
+    {
+      "name": "IrminsulAtlas",
+      "url": "https://github.com/DanielLinsAndrade/IrminsulAtlas",
+      "stars": 0,
+      "forks": 0,
+      "open_issues": 0,
+      "language": "TypeScript",
+      "last_push": "2026-09-28T16:09:16Z"
+    }
+  ]
+}
