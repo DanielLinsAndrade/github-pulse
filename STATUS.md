@@ -3,7 +3,7 @@
 > Este painel é atualizado automaticamente. Os commits de coleta não representam atividade manual de programação.
 
 **Perfil monitorado:** [DanielLinsAndrade](https://github.com/DanielLinsAndrade)  
-**Última coleta:** 2026-11-25T01:34:26-03:00 (America/Fortaleza)
+**Última coleta:** 2026-11-26T00:45:15-03:00 (America/Fortaleza)
 
 ## Indicadores
 
@@ -36,6 +36,7 @@
 
 | Data | Repositórios | Estrelas | Forks |
 | :-- | --: | --: | --: |
+| 2026-11-26 | 9 | 3 | 0 |
 | 2026-11-25 | 9 | 3 | 0 |
 | 2026-11-24 | 9 | 3 | 0 |
 | 2026-11-23 | 9 | 3 | 0 |
@@ -49,6 +50,5 @@
 | 2026-11-15 | 9 | 3 | 0 |
 | 2026-11-14 | 9 | 3 | 0 |
 | 2026-11-13 | 9 | 3 | 0 |
-| 2026-11-12 | 9 | 3 | 0 |
 
 Dados completos: [`data/history.csv`](data/history.csv) e arquivos JSON diários em [`data/daily`](data/daily).
